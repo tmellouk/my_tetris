@@ -60,7 +60,8 @@
 <body>
   <div class="container">
     <div class="content">
-      <h1>Terramino</h1>
+      <h1>El tetris de la mohino</h1>
+      <h1>PD: El creador de esta página es mejor que tú a francazos :)</h1>
       <p><span class="attribute-name">AMI ID:</span><code><?php echo $ami_id; ?></code></p>
       <p><span class="attribute-name">Instance ID:</span><code><?php echo $instance_id; ?></code></p>
       <p><span class="attribute-name">Availability Zones:</span><code><?php echo $zone; ?></code></p>
